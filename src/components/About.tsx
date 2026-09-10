@@ -3,10 +3,8 @@ export default function About() {
     <section id="about" className="py-24 md:py-32 border-t border-ink-border">
       <div className="max-w-content mx-auto section-pad grid md:grid-cols-5 gap-14 items-start">
         <div className="md:col-span-2">
-          <div className="aspect-[4/5] rounded-2xl border border-ink-border bg-ink-card grid-backdrop flex items-center justify-center overflow-hidden">
-            <span className="font-mono text-xs text-paper-dim/70 tracking-wide">
-              profile photo placeholder
-            </span>
+          <div className="aspect-[4/5] rounded-2xl border border-ink-border overflow-hidden">
+            <img src="/profile.jpg" alt="Desmond Didacus" className="w-full h-full object-cover" />
           </div>
         </div>
 
