@@ -56,6 +56,7 @@ export const projects: Project[] = [
     outcome:
       'Streamlined result processing, centralized school record-keeping, and automated delivery of approved results to parents.',
     url: 'https://ictresult.com',
+    coverImage: '/projects/ictresult.png',
     hasCaseStudy: true,
   },
   {
@@ -82,6 +83,7 @@ export const projects: Project[] = [
       'A combined learning and commerce platform: courses live in the LMS, digital products sell through an integrated marketplace, and both sit behind a single student account.',
     outcome: 'A unified learning and digital-product experience for students in one platform.',
     url: 'https://wealthsystemsacademy.com',
+    coverImage: '/projects/wealth.png',
     hasCaseStudy: true,
   },
   {
@@ -109,6 +111,7 @@ export const projects: Project[] = [
       'A two-sided platform where seekers build profiles and upload CVs, employers post vacancies and manage applicants, and a matching engine weighs skills, experience, qualifications, location and preferences.',
     outcome: 'A working two-sided recruitment platform with structured applicant management.',
     url: 'https://jobmatch-connect.vercel.app',
+    coverImage: '/projects/jobmatch.png',
     hasCaseStudy: true,
   },
   {
@@ -133,6 +136,7 @@ export const projects: Project[] = [
       'A structured product catalog with brand and price filtering, backed by multiple payment options including cryptocurrency.',
     outcome: 'A functioning premium storefront with flexible payment options for customers.',
     url: 'https://theblackgenesis.com',
+    coverImage: '/projects/blackgenesis.png',
     hasCaseStudy: true,
   },
   {
@@ -157,6 +161,7 @@ export const projects: Project[] = [
       'A commerce layer for courses, ebooks, software and templates, wired to a student portal that unlocks content on purchase.',
     outcome: 'A single platform for selling and delivering digital skills content.',
     url: 'https://jedrocskills.com.ng',
+    coverImage: '/projects/jedroc.png',
     hasCaseStudy: true,
   },
   {
@@ -181,6 +186,7 @@ export const projects: Project[] = [
     solution: 'A learning platform that bundles courses, mentorship access and signal services behind student accounts.',
     outcome: 'A consolidated education and mentorship platform for trading students.',
     url: 'https://chiralfx.com.ng',
+    coverImage: '/projects/chiralfx.png',
     hasCaseStudy: true,
   },
   {
@@ -207,6 +213,7 @@ export const projects: Project[] = [
     solution:
       'A dashboard-driven platform where users manage products, wallets and referrals, while admins manage listings, users and reporting from a separate control layer.',
     outcome: 'Centralized management of a marketplace with wallet, referral and reporting functionality in one system.',
+    coverImage: '/projects/pinnacle.png',
     hasCaseStudy: true,
   },
 ];
